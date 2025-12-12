@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppointmentsService",
+    "\\AppointmentsService\\Controllers",
+    "\\AppointmentsService\\Data",
+    "\\AppointmentsService\\Models",
+    "\\AppointmentsService\\Properties"
+  ],
+  "SelectedNode": "\\AppointmentsService\\Data\\AppointmentsDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

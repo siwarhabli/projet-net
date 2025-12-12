@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DoctorsService",
+    "\\DoctorsService\\Controllers",
+    "\\DoctorsService\\Data",
+    "\\DoctorsService\\Models"
+  ],
+  "SelectedNode": "\\DoctorsService\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,319 @@
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\appsettings.Development.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\appsettings.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.staticwebassets.endpoints.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.exe
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.deps.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.runtimeconfig.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.pdb
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Humanizer.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\MySqlConnector.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.CodeDom.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.csproj.AssemblyReference.cache
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.AssemblyInfoInputs.cache
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.AssemblyInfo.cs
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.csproj.CoreCompileInputs.cache
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.MvcApplicationPartsAssemblyInfo.cs
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.MvcApplicationPartsAssemblyInfo.cache
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\scopedcss\bundle\DoctorsService.styles.css
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.development.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsS.5A451BDE.Up2Date
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\refint\DoctorsService.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.pdb
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.genruntimeconfig.cache
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\ref\DoctorsService.dll
+D:\cycle ingeieur 3eme\.net\tp\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\appsettings.Development.json
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\appsettings.json
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.staticwebassets.endpoints.json
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.exe
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.deps.json
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.runtimeconfig.json
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.pdb
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Humanizer.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\MySqlConnector.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.csproj.AssemblyReference.cache
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.AssemblyInfoInputs.cache
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.AssemblyInfo.cs
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.csproj.CoreCompileInputs.cache
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.MvcApplicationPartsAssemblyInfo.cs
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\scopedcss\bundle\DoctorsService.styles.css
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsS.5A451BDE.Up2Date
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.dll
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\refint\DoctorsService.dll
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.pdb
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.genruntimeconfig.cache
+D:\.net\tp4\DoctorsService\DoctorsService\obj\Debug\net8.0\ref\DoctorsService.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\appsettings.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.staticwebassets.endpoints.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.exe
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.deps.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.runtimeconfig.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\DoctorsService.pdb
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.csproj.AssemblyReference.cache
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.AssemblyInfoInputs.cache
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.AssemblyInfo.cs
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.csproj.CoreCompileInputs.cache
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\scopedcss\bundle\DoctorsService.styles.css
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsS.5A451BDE.Up2Date
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\refint\DoctorsService.dll
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.pdb
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\DoctorsService.genruntimeconfig.cache
+C:\Users\sinda\source\repos\DoctorsService\DoctorsService\obj\Debug\net8.0\ref\DoctorsService.dll
